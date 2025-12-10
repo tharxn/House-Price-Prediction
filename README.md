@@ -5,6 +5,6 @@ Implemented a machine learning pipeline to predict residential house prices usin
 
 Explored baseline Linear Regression and Random Forest Regression, comparing performance on validation data.
 
-Achieved validation RMSE of ~25k with Random Forest, demonstrating improvement over baseline (~39k RMSE).
+Achieved validation RMSE of ~31k with Random Forest, demonstrating improvement over baseline Linear Regression(~39k RMSE).
 
 Performed feature selection and used train-validation split for robust evaluation.
